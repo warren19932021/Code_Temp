@@ -1,7 +1,6 @@
-#include "../include/Shape.h"
+#include "Shape.h"
 #include <iostream>
-#define Verbose 20
-//#define Verbose 0
+#define Verbose 2
 using namespace std;
 
   Shape::Shape()
@@ -15,20 +14,3 @@ using namespace std;
   {
   };
 
-  Rectangle::Rectangle(float length,float width)
-  {
-	 Length = length; Width = width;
-  };
-
-  Rectangle::~Rectangle()
-  {
-  };
-	  
-  float Rectangle::CalculateArea(){
-	 float  area = Length*Width;
-	 return area; 
-	};
-	float  Rectangle::CalculateCircumference(){
-	 float  circumference = 2*(Length+Width);
-	return circumference; 
-	};
