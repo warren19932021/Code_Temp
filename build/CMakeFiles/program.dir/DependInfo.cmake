@@ -11,7 +11,6 @@ set(CMAKE_DEPENDS_DEPENDENCY_FILES
   "/home/iktp/Code/Temp/main.cpp" "CMakeFiles/program.dir/main.o" "gcc" "CMakeFiles/program.dir/main.o.d"
   "/home/iktp/Code/Temp/src/Rectangle.cpp" "CMakeFiles/program.dir/src/Rectangle.o" "gcc" "CMakeFiles/program.dir/src/Rectangle.o.d"
   "/home/iktp/Code/Temp/src/Shape.cpp" "CMakeFiles/program.dir/src/Shape.o" "gcc" "CMakeFiles/program.dir/src/Shape.o.d"
-  "/home/iktp/Code/Temp/src/Square.cpp" "CMakeFiles/program.dir/src/Square.o" "gcc" "CMakeFiles/program.dir/src/Square.o.d"
   )
 
 # Targets to which this target links.

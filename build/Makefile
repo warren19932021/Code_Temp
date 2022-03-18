@@ -174,21 +174,6 @@ src/Shape.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/program.dir/build.make CMakeFiles/program.dir/src/Shape.s
 .PHONY : src/Shape.s
 
-# target to build an object file
-src/Square.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/program.dir/build.make CMakeFiles/program.dir/src/Square.o
-.PHONY : src/Square.o
-
-# target to preprocess a source file
-src/Square.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/program.dir/build.make CMakeFiles/program.dir/src/Square.i
-.PHONY : src/Square.i
-
-# target to generate assembly for a file
-src/Square.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/program.dir/build.make CMakeFiles/program.dir/src/Square.s
-.PHONY : src/Square.s
-
 # Help Target
 help:
 	@echo "The following are some of the valid targets for this Makefile:"
@@ -207,9 +192,6 @@ help:
 	@echo "... src/Shape.o"
 	@echo "... src/Shape.i"
 	@echo "... src/Shape.s"
-	@echo "... src/Square.o"
-	@echo "... src/Square.i"
-	@echo "... src/Square.s"
 .PHONY : help
 
 
