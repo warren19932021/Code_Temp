@@ -6,6 +6,16 @@ using namespace std;
 
    int main(){
 
+
+
+
+
+
+
+
+
+
+
  
       Shape * shape_B = new Rectangle(10,20);      
 		cout<<"Area of Rectangle: "<<shape_B->CalculateArea()<<endl;
