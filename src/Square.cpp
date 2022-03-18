@@ -10,7 +10,8 @@ using namespace std;
   Square::~Square()
   {
   };
-	  
+	
+
   float Square::CalculateArea(){
 	 float  area = SideLength*SideLength;
 	 return area; 

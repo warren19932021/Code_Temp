@@ -5,6 +5,7 @@ class Square: public Shape{
     	Square(float);
         ~Square();
 
+
        float CalculateArea();
        float CalculateCircumference();
 
