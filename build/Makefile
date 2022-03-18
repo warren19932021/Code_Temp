@@ -145,21 +145,6 @@ main.s:
 .PHONY : main.s
 
 # target to build an object file
-src/Rectangle.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/program.dir/build.make CMakeFiles/program.dir/src/Rectangle.o
-.PHONY : src/Rectangle.o
-
-# target to preprocess a source file
-src/Rectangle.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/program.dir/build.make CMakeFiles/program.dir/src/Rectangle.i
-.PHONY : src/Rectangle.i
-
-# target to generate assembly for a file
-src/Rectangle.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/program.dir/build.make CMakeFiles/program.dir/src/Rectangle.s
-.PHONY : src/Rectangle.s
-
-# target to build an object file
 src/Shape.o:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/program.dir/build.make CMakeFiles/program.dir/src/Shape.o
 .PHONY : src/Shape.o
@@ -201,9 +186,6 @@ help:
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
-	@echo "... src/Rectangle.o"
-	@echo "... src/Rectangle.i"
-	@echo "... src/Rectangle.s"
 	@echo "... src/Shape.o"
 	@echo "... src/Shape.i"
 	@echo "... src/Shape.s"

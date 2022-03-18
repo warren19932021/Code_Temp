@@ -140,5 +140,4 @@ CMakeFiles/program.dir/main.o: /home/iktp/Code/Temp/main.cpp \
  /usr/include/x86_64-linux-gnu/bits/mathcalls.h \
  /usr/include/x86_64-linux-gnu/bits/iscanonical.h \
  /home/iktp/Code/Temp/include/Square.h \
- /home/iktp/Code/Temp/include/Shape.h \
- /home/iktp/Code/Temp/include/Rectangle.h
+ /home/iktp/Code/Temp/include/Shape.h
