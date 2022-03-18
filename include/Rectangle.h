@@ -8,6 +8,13 @@ class Rectangle: public Shape{
        float CalculateArea();
        float CalculateCircumference();
 
+
+
+
+
+
+
+
  public:
     	  float Length;
           float Width;

@@ -10,7 +10,15 @@ using namespace std;
   Rectangle::~Rectangle()
   {
   };
-	  
+
+
+
+
+
+
+
+
+
   float Rectangle::CalculateArea(){
 	 float  area = Length*Width;
 	 return area; 
