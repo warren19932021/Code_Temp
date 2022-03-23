@@ -10,6 +10,8 @@ using namespace std;
   Square::~Square()
   {
   };
+
+
 	
 
   float Square::CalculateArea(){
