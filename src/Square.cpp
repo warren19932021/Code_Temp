@@ -9,6 +9,8 @@ using namespace std;
 
   Square::~Square()
   {
+
+     cout<<"output from Square.cpp made by worker_A"<<endl;
   };
 
 
