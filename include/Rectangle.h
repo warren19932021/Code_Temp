@@ -16,6 +16,7 @@ class Rectangle: public Shape{
 
 
  public:
+
     	  float Length;
           float Width;
 
