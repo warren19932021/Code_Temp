@@ -8,7 +8,6 @@ using namespace std;
 
 
 
-shit!!!!!!!!!!!!!!!!
 
 
 
@@ -18,7 +17,6 @@ shit!!!!!!!!!!!!!!!!
 
  
       Shape * shape_B = new Rectangle(10,20);      
-what!!!
 cout<<"Area of Rectangle: "<<shape_B->CalculateArea()<<endl;
 		cout<<"circumference of Rectangle "<<shape_B->CalculateCircumference()<<endl;
        
