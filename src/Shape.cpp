@@ -6,6 +6,8 @@ using namespace std;
   Shape::Shape()
   {
     cout << "Hello from Shape" << endl;
+
+
    
   };
 

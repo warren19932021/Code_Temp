@@ -4,6 +4,8 @@ using namespace std;
  
   Square::Square(float sideLength)
   {
+
+
 	 SideLength = sideLength;
   };
 

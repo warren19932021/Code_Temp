@@ -7,6 +7,10 @@ class Square: public Shape{
 
 
        float CalculateArea();
+
+
+
+
        float CalculateCircumference();
 
  public:

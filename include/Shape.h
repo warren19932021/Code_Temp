@@ -7,7 +7,12 @@ public:
 	Shape();
 	~Shape();
 
+
+
         virtual float CalculateArea(){};
+
+
+
         virtual float CalculateCircumference(){};
 
 };
