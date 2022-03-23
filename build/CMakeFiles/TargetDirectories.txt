@@ -1,3 +1,0 @@
-/home/iktp/Code/Temp/build/CMakeFiles/rebuild_cache.dir
-/home/iktp/Code/Temp/build/CMakeFiles/edit_cache.dir
-/home/iktp/Code/Temp/build/CMakeFiles/program.dir
