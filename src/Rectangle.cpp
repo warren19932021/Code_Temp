@@ -9,6 +9,7 @@ using namespace std;
 
   Rectangle::~Rectangle()
   {
+
   };
 
 
